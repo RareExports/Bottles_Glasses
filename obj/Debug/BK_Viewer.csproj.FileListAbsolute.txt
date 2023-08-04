@@ -1,0 +1,7 @@
+C:\Users\zelda\OneDrive\Desktop\BottlesGlasses_0.8\BG\BK_Viewer\obj\Debug\BK_Viewer.csproj.AssemblyReference.cache
+C:\Users\zelda\OneDrive\Desktop\BottlesGlasses_0.8\BG\BK_Viewer\obj\Debug\BK_Viewer.GettingStarted.resources
+C:\Users\zelda\OneDrive\Desktop\BottlesGlasses_0.8\BG\BK_Viewer\obj\Debug\BK_Viewer.Main.resources
+C:\Users\zelda\OneDrive\Desktop\BottlesGlasses_0.8\BG\BK_Viewer\obj\Debug\BK_Viewer.RenameFileDescription.resources
+C:\Users\zelda\OneDrive\Desktop\BottlesGlasses_0.8\BG\BK_Viewer\obj\Debug\BK_Viewer.Resources.resources
+C:\Users\zelda\OneDrive\Desktop\BottlesGlasses_0.8\BG\BK_Viewer\obj\Debug\BK_Viewer.csproj.GenerateResource.cache
+C:\Users\zelda\OneDrive\Desktop\BottlesGlasses_0.8\BG\BK_Viewer\obj\Debug\BK_Viewer.csproj.CoreCompileInputs.cache
