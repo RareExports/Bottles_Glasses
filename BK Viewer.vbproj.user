@@ -17,11 +17,6 @@
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <StartArguments>/d:DEBUG=True</StartArguments>
-    <StartWorkingDirectory>D:\Compiled\Blood Gulch\</StartWorkingDirectory>
-  </PropertyGroup>
-  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
-    <StartArguments>
-    </StartArguments>
-    <StartWorkingDirectory>D:\Compiled\Blood Gulch\</StartWorkingDirectory>
+    <StartWorkingDirectory></StartWorkingDirectory>
   </PropertyGroup>
 </Project>
