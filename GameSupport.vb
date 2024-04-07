@@ -1,0 +1,3 @@
+﻿Module GameSupport
+
+End Module

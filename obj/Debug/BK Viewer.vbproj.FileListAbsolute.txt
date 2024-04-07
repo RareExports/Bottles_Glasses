@@ -1,0 +1,60 @@
+D:\Program Source Codes\Bottles' Glasses Source\BG\obj\Debug\BK Viewer.exe
+D:\Program Source Codes\Bottles' Glasses Source\BG\obj\Debug\BK Viewer.xml
+D:\Program Source Codes\Bottles' Glasses Source\BG\obj\Debug\BK Viewer.pdb
+D:\Program Source Codes\Bottles' Glasses Source\BG\bin\Debug\BK Viewer.exe
+D:\Program Source Codes\Bottles' Glasses Source\BG\bin\Debug\BK Viewer.pdb
+D:\Program Source Codes\Bottles' Glasses Source\BG\bin\Debug\BK Viewer.xml
+D:\Program Source Codes\Bottles' Glasses Source\BG\bin\Debug\Tao.Platform.Windows.xml
+D:\Program Source Codes\Bottles' Glasses Source\BG\bin\Debug\Tao.OpenGl.xml
+D:\Program Source Codes\Bottles' Glasses Source\BG\bin\Debug\Tao.DevIl.xml
+D:\Program Source Codes\Bottles' Glasses Source\BG\bin\Debug\Tao.FreeGlut.xml
+D:\Program Source Codes\Bottles' Glasses Source\BG\obj\Debug\ResolveAssemblyReference.cache
+D:\Program Source Codes\Bottles' Glasses Source\BG\obj\Debug\BK_Viewer.AboutBox1.resources
+D:\Program Source Codes\Bottles' Glasses Source\BG\obj\Debug\BK_Viewer.Main.resources
+D:\Program Source Codes\Bottles' Glasses Source\BG\obj\Debug\BK_Viewer.Resources.resources
+D:\Program Source Codes\Bottles' Glasses Source\BG\obj\Debug\BK Viewer.vbproj.GenerateResource.Cache
+D:\Sources\Bottles' Glasses Source\BG\obj\Debug\ResolveAssemblyReference.cache
+D:\Sources\Bottles' Glasses Source\BG\obj\Debug\BK_Viewer.Main.resources
+D:\Sources\Bottles' Glasses Source\BG\obj\Debug\BK_Viewer.Resources.resources
+D:\Sources\Bottles' Glasses Source\BG\obj\Debug\BK_Viewer.RenameFileDescription.resources
+D:\Sources\Bottles' Glasses Source\BG\obj\Debug\BK_Viewer.GettingStarted.resources
+E:\Sources\Bottles' Glasses Source\BG\obj\Debug\ResolveAssemblyReference.cache
+E:\Sources\Bottles' Glasses Source\BG\obj\Debug\BK_Viewer.AboutBox1.resources
+E:\Sources\Bottles' Glasses Source\BG\obj\Debug\BK_Viewer.BloodGulch.resources
+E:\Sources\Bottles' Glasses Source\BG\obj\Debug\BK_Viewer.GettingStarted.resources
+E:\Sources\Bottles' Glasses Source\BG\obj\Debug\BK_Viewer.Main.resources
+E:\Sources\Bottles' Glasses Source\BG\obj\Debug\BK_Viewer.Resources.resources
+E:\Sources\Bottles' Glasses Source\BG\obj\Debug\BK_Viewer.RenameFileDescription.resources
+E:\Sources\Bottles' Glasses Source\BG\obj\Debug\BK Viewer.vbproj.GenerateResource.Cache
+E:\Sources\Bottles' Glasses Source\BG\bin\debug\BK_Viewer.exe.config
+E:\Sources\Bottles' Glasses Source\BG\bin\debug\BK_Viewer.exe
+E:\Sources\Bottles' Glasses Source\BG\bin\debug\BK_Viewer.pdb
+E:\Sources\Bottles' Glasses Source\BG\bin\debug\BK_Viewer.xml
+E:\Sources\Bottles' Glasses Source\BG\obj\Debug\BK_Viewer.exe
+E:\Sources\Bottles' Glasses Source\BG\obj\Debug\BK_Viewer.xml
+E:\Sources\Bottles' Glasses Source\BG\obj\Debug\BK_Viewer.pdb
+D:\Sources\Bottles' Glasses Source\BG\bin\debug\BK_Viewer.exe.config
+D:\Sources\Bottles' Glasses Source\BG\obj\Debug\BK_Viewer.exe
+D:\Sources\Bottles' Glasses Source\BG\obj\Debug\BK_Viewer.xml
+D:\Sources\Bottles' Glasses Source\BG\obj\Debug\BK_Viewer.pdb
+D:\Sources\Bottles' Glasses Source\BG\bin\debug\BK_Viewer.exe
+D:\Sources\Bottles' Glasses Source\BG\bin\debug\BK_Viewer.pdb
+D:\Sources\Bottles' Glasses Source\BG\bin\debug\BK_Viewer.xml
+C:\Users\cooliscool\Sources\Bottles' Glasses Source\BG\bin\debug\BK_Viewer.exe.config
+C:\Users\cooliscool\Sources\Bottles' Glasses Source\BG\obj\Debug\BK_Viewer.exe
+C:\Users\cooliscool\Sources\Bottles' Glasses Source\BG\obj\Debug\BK_Viewer.xml
+C:\Users\cooliscool\Sources\Bottles' Glasses Source\BG\obj\Debug\BK_Viewer.pdb
+C:\Users\cooliscool\Sources\Bottles' Glasses Source\BG\bin\debug\BK_Viewer.exe
+C:\Users\cooliscool\Sources\Bottles' Glasses Source\BG\bin\debug\BK_Viewer.pdb
+C:\Users\cooliscool\Sources\Bottles' Glasses Source\BG\bin\debug\BK_Viewer.xml
+C:\Users\cooliscool\Sources\Bottles' Glasses Source\BG\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cooliscool\Sources\Bottles' Glasses Source\BG\obj\Debug\BK_Viewer.AboutBox1.resources
+C:\Users\cooliscool\Sources\Bottles' Glasses Source\BG\obj\Debug\BK_Viewer.BloodGulch.resources
+C:\Users\cooliscool\Sources\Bottles' Glasses Source\BG\obj\Debug\BK_Viewer.GettingStarted.resources
+C:\Users\cooliscool\Sources\Bottles' Glasses Source\BG\obj\Debug\BK_Viewer.Main.resources
+C:\Users\cooliscool\Sources\Bottles' Glasses Source\BG\obj\Debug\BK_Viewer.Resources.resources
+C:\Users\cooliscool\Sources\Bottles' Glasses Source\BG\obj\Debug\BK_Viewer.RenameFileDescription.resources
+C:\Users\cooliscool\Sources\Bottles' Glasses Source\BG\obj\Debug\BK Viewer.vbproj.GenerateResource.Cache
+D:\Sources\Bottles' Glasses Source\BG\bin\debug\CodersLab.Windows.Controls.TreeView.dll
+D:\Sources\Bottles' Glasses Source\BG\obj\Debug\ResGen.read.1.tlog
+D:\Sources\Bottles' Glasses Source\BG\obj\Debug\ResGen.write.1.tlog

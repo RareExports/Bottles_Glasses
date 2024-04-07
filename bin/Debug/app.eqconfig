@@ -1,0 +1,21 @@
+﻿<config>
+  <OutputFolder>$(AppDir)-Profiled</OutputFolder>
+  <ReportFolderNetFull>$(SystemRoot)\Temp\EQATECProfilerLogs</ReportFolderNetFull>
+  <ReportFolderNetCF>\Temp\EQATECProfilerLogs</ReportFolderNetCF>
+  <AutoSnapshot>Main OnStop ApplicationEnd</AutoSnapshot>
+  <TinyMethodAction>Skip</TinyMethodAction>
+  <RuntimeControlEnabled>true</RuntimeControlEnabled>
+  <RuntimeControlPort>3947</RuntimeControlPort>
+  <RuntimeModuleLogLevel>Errors</RuntimeModuleLogLevel>
+  <ExcludeFiles>
+    <ExcludeFile>BK_Viewer.vshost.exe</ExcludeFile>
+  </ExcludeFiles>
+  <SignActions>
+    <SignAction action="Skip" publickey="ACQAAASAAACUAAAABgIAAAAkAABSU0ExAAQAAAEAAQBVYU5Z6rtVlRXLMeqP9F/ybjzgRdlbbKgXVpcuMoS1QpFZP3QikS4xwvRgXV+gMUKTG8t95lCry4m71l47khsHKev2Z+yXJ60du7MRmkoBzYuSxOEwW1uP1vuPlVX9I41Z0iyCd4B8mN8R7yl98xUwB848KrEYIO49AMXTrvbv5Q==" usedby="D:\Sources\Bottles' Glasses Source\BG\bin\Debug\CodersLab.Windows.Controls.TreeView.dll" keyfile="" />
+    <SignAction action="Skip" publickey="ACQAAASAAACUAAAABgIAAAAkAABSU0ExAAQAAAEAAQBv7JM+FQkHoggZ7cCGp/nhDbUYCGI8P9UFxLH4/fnot3Yft0+RFiv+/6mIegZm5A7IQr7Z5E+iNyk9YZtdM3Jjp3kf7uLeb5g/K7faGZ9yZKhRTghypEJdpHf4ifafECLmLlaybYNW7jtURME3eiuQBMO62DCvXrF2fsdjj/4lpQ==" usedby="D:\Sources\Bottles' Glasses Source\BG\bin\Debug\Tao.DevIl.dll" keyfile="" />
+    <SignAction action="Skip" publickey="ACQAAASAAACUAAAABgIAAAAkAABSU0ExAAQAAAEAAQD7oGiKkPlB72Yv5IpG27ARgM70s0aVVbq3Q3uPqx/syzBC/WxG+ax2Z0gfUjAYt7bru2tJp7wvzEw0ZCKFmNccINh/lqYyJ8aVpETjArRhPCOUrmAD7z1EawbmIdSd1cEoShK26DtQoNrDFVxeluYyxX/ltzySewupq3D4buLYsg==" usedby="D:\Sources\Bottles' Glasses Source\BG\bin\Debug\Tao.FreeGlut.dll" keyfile="" />
+    <SignAction action="Skip" publickey="ACQAAASAAACUAAAABgIAAAAkAABSU0ExAAQAAAEAAQBb47FVt/avVPXQVEWfN8uDDgKWZ3gW4pSHjcz4CvpS0qjkXLi4WlSq5prjxJTPk+5l90sCbVr6A0UAB1A4Zq+f0J4WCDcWEtF8QpXz7nj0nMQyuHstLUT9+f9I9o9veQbDs/XYej8A4cDOMJJzoREjKKWBQvGnCw9M7Co8Mh6LvQ==" usedby="D:\Sources\Bottles' Glasses Source\BG\bin\Debug\Tao.OpenGl.dll" keyfile="" />
+    <SignAction action="Skip" publickey="ACQAAASAAACUAAAABgIAAAAkAABSU0ExAAQAAAEAAQBlfbQqrhVXhOe72OYplyap3vQIibvr0qOQV8BgJETpmp1jRBcblz04nkKZqMYEkGfzilPG1P6PHxfcyyOilwbG5R48p8MqrcGu4Undp79pIkLWV4gL2t3AXNh3LjJG2u1cnGIwBvtmEW6JP/jbJSnS+qWdpcR4X0kj4VEvlwy24g==" usedby="D:\Sources\Bottles' Glasses Source\BG\bin\Debug\Tao.Platform.Windows.dll" keyfile="" />
+  </SignActions>
+  <AppType>FullNet</AppType>
+</config>

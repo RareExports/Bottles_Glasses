@@ -1,0 +1,3 @@
+obj\Debug\OGL Examples.exe
+obj\Debug\OGL Examples.xml
+obj\Debug\OGL Examples.pdb

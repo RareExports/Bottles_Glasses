@@ -1,0 +1,3 @@
+E:\Bottles' Glasses Source\BG\obj\Debug\BK Viewer.exe
+E:\Bottles' Glasses Source\BG\obj\Debug\BK Viewer.xml
+E:\Bottles' Glasses Source\BG\obj\Debug\BK Viewer.pdb

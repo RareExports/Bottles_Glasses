@@ -1,0 +1,40 @@
+D:\Sources\Bottles' Glasses Source\BG\obj\Release\ResolveAssemblyReference.cache
+D:\Sources\Bottles' Glasses Source\BG\obj\Release\BK_Viewer.Main.resources
+D:\Sources\Bottles' Glasses Source\BG\obj\Release\BK_Viewer.Resources.resources
+D:\Sources\Bottles' Glasses Source\BG\obj\Release\BK Viewer.vbproj.GenerateResource.Cache
+D:\Sources\Bottles' Glasses Source\BG\bin\debug\BK Viewer.exe
+D:\Sources\Bottles' Glasses Source\BG\bin\debug\BK Viewer.pdb
+D:\Sources\Bottles' Glasses Source\BG\bin\debug\BK Viewer.xml
+C:\Users\cooliscool\Desktop\Compiled\Blood Gulch\Bottles' Glasses.exe.config
+C:\Users\cooliscool\Desktop\Compiled\Blood Gulch\Bottles' Glasses.exe
+C:\Users\cooliscool\Desktop\Compiled\Blood Gulch\Bottles' Glasses.pdb
+C:\Users\cooliscool\Desktop\Compiled\Blood Gulch\Bottles' Glasses.xml
+D:\Sources\Bottles' Glasses Source\BG\obj\Release\BK_Viewer.RenameFileDescription.resources
+D:\Sources\Bottles' Glasses Source\BG\obj\Release\BK_Viewer.GettingStarted.resources
+E:\Sources\Bottles' Glasses Source\BG\obj\Release\ResolveAssemblyReference.cache
+E:\Sources\Bottles' Glasses Source\BG\obj\Release\BK_Viewer.AboutBox1.resources
+E:\Sources\Bottles' Glasses Source\BG\obj\Release\BK_Viewer.BloodGulch.resources
+E:\Sources\Bottles' Glasses Source\BG\obj\Release\BK_Viewer.GettingStarted.resources
+E:\Sources\Bottles' Glasses Source\BG\obj\Release\BK_Viewer.Main.resources
+E:\Sources\Bottles' Glasses Source\BG\obj\Release\BK_Viewer.Resources.resources
+E:\Sources\Bottles' Glasses Source\BG\obj\Release\BK_Viewer.RenameFileDescription.resources
+E:\Sources\Bottles' Glasses Source\BG\obj\Release\BK Viewer.vbproj.GenerateResource.Cache
+E:\Sources\Bottles' Glasses Source\BG\obj\Release\Bottles' Glasses.exe
+E:\Sources\Bottles' Glasses Source\BG\obj\Release\Bottles' Glasses.xml
+E:\Sources\Bottles' Glasses Source\BG\obj\Release\Bottles' Glasses.pdb
+D:\Compiled\Blood Gulch\BK_Viewer.exe.config
+D:\Compiled\Blood Gulch\BK_Viewer.exe
+D:\Compiled\Blood Gulch\BK_Viewer.pdb
+D:\Compiled\Blood Gulch\BK_Viewer.xml
+D:\Sources\Bottles' Glasses Source\BG\obj\Release\BK_Viewer.exe
+D:\Sources\Bottles' Glasses Source\BG\obj\Release\BK_Viewer.xml
+D:\Sources\Bottles' Glasses Source\BG\obj\Release\BK_Viewer.pdb
+C:\Users\cooliscool\Sources\Bottles' Glasses Source\BG\obj\Release\ResolveAssemblyReference.cache
+C:\Users\cooliscool\Sources\Bottles' Glasses Source\BG\obj\Release\BK_Viewer.GettingStarted.resources
+C:\Users\cooliscool\Sources\Bottles' Glasses Source\BG\obj\Release\BK_Viewer.Main.resources
+C:\Users\cooliscool\Sources\Bottles' Glasses Source\BG\obj\Release\BK_Viewer.Resources.resources
+C:\Users\cooliscool\Sources\Bottles' Glasses Source\BG\obj\Release\BK_Viewer.RenameFileDescription.resources
+C:\Users\cooliscool\Sources\Bottles' Glasses Source\BG\obj\Release\BK Viewer.vbproj.GenerateResource.Cache
+C:\Users\cooliscool\Sources\Bottles' Glasses Source\BG\obj\Release\BK_Viewer.exe
+C:\Users\cooliscool\Sources\Bottles' Glasses Source\BG\obj\Release\BK_Viewer.xml
+C:\Users\cooliscool\Sources\Bottles' Glasses Source\BG\obj\Release\BK_Viewer.pdb

@@ -1,0 +1,33 @@
+bin\Debug\Tao.Platform.Windows.dll
+bin\Debug\Tao.Platform.Windows.xml
+bin\Debug\Tao.OpenGl.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\BK Viewer.vbproj.GenerateResource.Cache
+bin\Debug\BK Viewer.exe
+bin\Debug\BK Viewer.pdb
+bin\Debug\BK Viewer.xml
+bin\Debug\Tao.OpenGl.dll
+obj\Debug\BK_Viewer.Resources.resources
+obj\Debug\BK Viewer.exe
+obj\Debug\BK Viewer.xml
+obj\Debug\BK Viewer.pdb
+obj\Debug\BK_Viewer.Main.resources
+C:\Documents and Settings\Administrator\Desktop\OGL Examples Compile\BK Viewer.exe
+C:\Documents and Settings\Administrator\Desktop\OGL Examples Compile\BK Viewer.pdb
+C:\Documents and Settings\Administrator\Desktop\OGL Examples Compile\BK Viewer.xml
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\BK_Viewer.Main.resources
+obj\Release\BK_Viewer.Resources.resources
+obj\Release\BK Viewer.vbproj.GenerateResource.Cache
+obj\Release\BK Viewer.exe
+obj\Release\BK Viewer.xml
+obj\Release\BK Viewer.pdb
+bin\Debug\Tao.DevIl.dll
+bin\Debug\Tao.DevIl.xml
+bin\Debug\Tao.FreeGlut.dll
+bin\Debug\Tao.FreeGlut.xml
+C:\Documents and Settings\Administrator\Desktop\Bottles' Glasses\BK Viewer.exe
+C:\Documents and Settings\Administrator\Desktop\Bottles' Glasses\BK Viewer.pdb
+C:\Documents and Settings\Administrator\Desktop\Bottles' Glasses\BK Viewer.xml
+obj\Debug\BK_Viewer.AboutBox1.resources
+obj\Release\BK_Viewer.AboutBox1.resources

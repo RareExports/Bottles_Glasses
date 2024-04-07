@@ -1,0 +1,39 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+BK_Viewer
+</name>
+</assembly>
+<members>
+<member name="P:BK_Viewer.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:BK_Viewer.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:BK_Viewer.My.Resources.Resources.VRMLHeader">
+	<summary>
+  Looks up a localized string similar to #VRML V2.0 utf8
+#
+#  
+
+Viewpoint { description "Created with Zelda64 Actor Viewer!" position 0.0 0.0 9.0 }
+
+NavigationInfo { type "EXAMINE" }
+Transform {translation -1.5 0.0 0.0
+children Shape {
+appearance DEF A Appearance { material Material { } }
+geometry DEF IFS IndexedFaceSet {
+coord Coordinate { point [ .
+</summary>
+</member><member name="T:BK_Viewer.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

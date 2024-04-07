@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="BK Viewer">
+</Property><Property Name="Solution File" Value="D:\Program Source Codes\Bottles' Glasses Source\BG\BK Viewer.sln">
+</Property><Property Name="User Options File" Value="D:\Program Source Codes\Bottles' Glasses Source\BG\BK Viewer.suo">
+</Property><Property Name="Date" Value="Thursday, February 19, 2009">
+</Property><Property Name="Time" Value="0:30 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="BK Viewer.sln" Description="File successfully backed up as D:\Program Source Codes\Bottles' Glasses Source\BG\Backup\BK Viewer.sln">
+</Event><Event ErrorLevel="0" Project="" Source="BK Viewer.suo" Description="File successfully backed up as D:\Program Source Codes\Bottles' Glasses Source\BG\Backup\BK Viewer.suo">
+</Event><Event ErrorLevel="0" Project="BK Viewer" Source="BK Viewer.vbproj" Description="Project file successfully backed up as D:\Program Source Codes\Bottles' Glasses Source\BG\Backup\BK Viewer.vbproj">
+</Event><Event ErrorLevel="0" Project="BK Viewer" Source="BK Viewer.vbproj.user" Description="Project user file successfully backed up as D:\Program Source Codes\Bottles' Glasses Source\BG\Backup\BK Viewer.vbproj.user">
+</Event><Event ErrorLevel="0" Project="BK Viewer" Source="AboutBox1.Designer.vb" Description="File successfully backed up as D:\Program Source Codes\Bottles' Glasses Source\BG\Backup\AboutBox1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="BK Viewer" Source="AboutBox1.vb" Description="File successfully backed up as D:\Program Source Codes\Bottles' Glasses Source\BG\Backup\AboutBox1.vb">
+</Event><Event ErrorLevel="0" Project="BK Viewer" Source="ApplicationEvents.vb" Description="File successfully backed up as D:\Program Source Codes\Bottles' Glasses Source\BG\Backup\ApplicationEvents.vb">
+</Event><Event ErrorLevel="0" Project="BK Viewer" Source="Main.vb" Description="File successfully backed up as D:\Program Source Codes\Bottles' Glasses Source\BG\Backup\Main.vb">
+</Event><Event ErrorLevel="0" Project="BK Viewer" Source="Main.Designer.vb" Description="File successfully backed up as D:\Program Source Codes\Bottles' Glasses Source\BG\Backup\Main.Designer.vb">
+</Event><Event ErrorLevel="0" Project="BK Viewer" Source="Functions.vb" Description="File successfully backed up as D:\Program Source Codes\Bottles' Glasses Source\BG\Backup\Functions.vb">
+</Event><Event ErrorLevel="0" Project="BK Viewer" Source="My Project\AssemblyInfo.vb" Description="File successfully backed up as D:\Program Source Codes\Bottles' Glasses Source\BG\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="BK Viewer" Source="My Project\Application.Designer.vb" Description="File successfully backed up as D:\Program Source Codes\Bottles' Glasses Source\BG\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="BK Viewer" Source="My Project\Resources.Designer.vb" Description="File successfully backed up as D:\Program Source Codes\Bottles' Glasses Source\BG\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="BK Viewer" Source="My Project\Settings.Designer.vb" Description="File successfully backed up as D:\Program Source Codes\Bottles' Glasses Source\BG\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="BK Viewer" Source="My Project\Application.myapp" Description="File successfully backed up as D:\Program Source Codes\Bottles' Glasses Source\BG\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="BK Viewer" Source="My Project\Settings.settings" Description="File successfully backed up as D:\Program Source Codes\Bottles' Glasses Source\BG\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="BK Viewer" Source="Resources\vrml.gif" Description="File successfully backed up as D:\Program Source Codes\Bottles' Glasses Source\BG\Backup\Resources\vrml.gif">
+</Event><Event ErrorLevel="0" Project="BK Viewer" Source="Resources\grun_s2.gif" Description="File successfully backed up as D:\Program Source Codes\Bottles' Glasses Source\BG\Backup\Resources\grun_s2.gif">
+</Event><Event ErrorLevel="0" Project="BK Viewer" Source="Resources\pluma_roja.gif" Description="File successfully backed up as D:\Program Source Codes\Bottles' Glasses Source\BG\Backup\Resources\pluma_roja.gif">
+</Event><Event ErrorLevel="0" Project="BK Viewer" Source="Resources\off.gif" Description="File successfully backed up as D:\Program Source Codes\Bottles' Glasses Source\BG\Backup\Resources\off.gif">
+</Event><Event ErrorLevel="0" Project="BK Viewer" Source="Resources\Clipboard01.png" Description="File successfully backed up as D:\Program Source Codes\Bottles' Glasses Source\BG\Backup\Resources\Clipboard01.png">
+</Event><Event ErrorLevel="0" Project="BK Viewer" Source="Resources\mumbo.gif" Description="File successfully backed up as D:\Program Source Codes\Bottles' Glasses Source\BG\Backup\Resources\mumbo.gif">
+</Event><Event ErrorLevel="0" Project="BK Viewer" Source="Resources\easteregg.gif" Description="File successfully backed up as D:\Program Source Codes\Bottles' Glasses Source\BG\Backup\Resources\easteregg.gif">
+</Event><Event ErrorLevel="0" Project="BK Viewer" Source="kazooie.ico" Description="File successfully backed up as D:\Program Source Codes\Bottles' Glasses Source\BG\Backup\kazooie.ico">
+</Event><Event ErrorLevel="0" Project="BK Viewer" Source="AboutBox1.resx" Description="File successfully backed up as D:\Program Source Codes\Bottles' Glasses Source\BG\Backup\AboutBox1.resx">
+</Event><Event ErrorLevel="0" Project="BK Viewer" Source="Main.resx" Description="File successfully backed up as D:\Program Source Codes\Bottles' Glasses Source\BG\Backup\Main.resx">
+</Event><Event ErrorLevel="0" Project="BK Viewer" Source="My Project\Resources.resx" Description="File successfully backed up as D:\Program Source Codes\Bottles' Glasses Source\BG\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="BK Viewer" Source="BK Viewer.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BK Viewer" Source="BK Viewer.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="BK Viewer.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="BK Viewer.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BK Viewer" Source="BK Viewer.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
